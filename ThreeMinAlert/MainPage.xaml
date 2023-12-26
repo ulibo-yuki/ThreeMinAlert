@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ThreeMinAlert.MainPage">
+
+    <ScrollView>
+        <VerticalStackLayout
+            Padding="30,0"
+            Spacing="25">
+
+            <Label
+                Text="タイマー"
+                Style="{StaticResource SubHeadline}"
+                SemanticProperties.HeadingLevel="Level2"
+                x:Name="label"
+                SemanticProperties.Description="Welcome to dot net Multi platform App U I" />
+
+            <Entry
+                x:Name="entry"
+                ClearButtonVisibility="WhileEditing"
+            />
+            <Label 
+                Text="残り時間" />
+            <Label
+                x:Name="RemainingTime" />
+            <Button
+                x:Name="CounterBtn"
+                Text="Click me" 
+                Clicked="OnCounterClicked"
+                HorizontalOptions="Fill" />
+        </VerticalStackLayout>
+    </ScrollView>
+
+</ContentPage>

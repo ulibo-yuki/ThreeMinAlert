@@ -292,6 +292,7 @@
 /Users/uchiyama/Devlopes/ThreeMinAlert/ThreeMinAlert/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/ThreeMinAlert.AssemblyInfoInputs.cache
 /Users/uchiyama/Devlopes/ThreeMinAlert/ThreeMinAlert/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/ThreeMinAlert.AssemblyInfo.cs
 /Users/uchiyama/Devlopes/ThreeMinAlert/ThreeMinAlert/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/ThreeMinAlert.csproj.CoreCompileInputs.cache
+/Users/uchiyama/Devlopes/ThreeMinAlert/ThreeMinAlert/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/ThreeMinAlert.sourcelink.json
 /Users/uchiyama/Devlopes/ThreeMinAlert/ThreeMinAlert/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/XamlC.stamp
 /Users/uchiyama/Devlopes/ThreeMinAlert/ThreeMinAlert/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/ThreeMinAlert.csproj.CopyComplete
 /Users/uchiyama/Devlopes/ThreeMinAlert/ThreeMinAlert/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/ThreeMinAlert.dll

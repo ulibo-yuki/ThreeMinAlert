@@ -4,7 +4,7 @@
              x:Class="ThreeMinAlert.MainPage">
 
     <ScrollView>
-        <VerticalStackLayout
+        <StackLayout
             Padding="30,0"
             Spacing="25">
 
@@ -12,23 +12,21 @@
                 Text="タイマー"
                 Style="{StaticResource SubHeadline}"
                 SemanticProperties.HeadingLevel="Level2"
-                x:Name="label"
-                SemanticProperties.Description="Welcome to dot net Multi platform App U I" />
-
+                x:Name="label" />
             <Entry
                 x:Name="entry"
-                ClearButtonVisibility="WhileEditing"
-            />
+                ClearButtonVisibility="WhileEditing" />
             <Label 
                 Text="残り時間" />
             <Label
-                x:Name="RemainingTime" />
+                x:Name="RemainingTime"  />
             <Button
                 x:Name="CounterBtn"
-                Text="Click me" 
+                Text="START" 
                 Clicked="OnCounterClicked"
                 HorizontalOptions="Fill" />
-        </VerticalStackLayout>
+
+        </StackLayout>
     </ScrollView>
 
 </ContentPage>

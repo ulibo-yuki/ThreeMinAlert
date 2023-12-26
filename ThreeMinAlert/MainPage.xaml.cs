@@ -9,6 +9,7 @@ public partial class MainPage : ContentPage
 
 	private void OnCounterClicked(object sender, EventArgs e)
 	{
+		label.Text = "カウントスタート";
 		Alarm();
 	}
 	private async void Alarm(){
@@ -25,11 +26,11 @@ public partial class MainPage : ContentPage
 			await Task.Delay(1000);
 			time--;
 		}
+		RemainingTime.Text = "";
 		AlarmUp();
 	}
 	private void AlarmUp(){
-		var title = "time up";
-		label.Text = title;
+		label.Text = "time up";
 	}
 }
 

@@ -1,0 +1,10 @@
+/Users/uchiyama/Devlopes/ThreeMinAlert/ThreeMinAlert/obj/Debug/net8.0-android/.NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+/Users/uchiyama/Devlopes/ThreeMinAlert/ThreeMinAlert/obj/Debug/net8.0-android/build.props
+/Users/uchiyama/Devlopes/ThreeMinAlert/ThreeMinAlert/obj/Debug/net8.0-android/adb.props
+/Users/uchiyama/Devlopes/ThreeMinAlert/ThreeMinAlert/obj/Debug/net8.0-android/ThreeMinAlert.csproj.AssemblyReference.cache
+/Users/uchiyama/Devlopes/ThreeMinAlert/ThreeMinAlert/obj/Debug/net8.0-android/mauiimage.inputs
+/Users/uchiyama/Devlopes/ThreeMinAlert/ThreeMinAlert/obj/Debug/net8.0-android/mauifont.inputs
+/Users/uchiyama/Devlopes/ThreeMinAlert/ThreeMinAlert/obj/Debug/net8.0-android/mauisplash.inputs
+/Users/uchiyama/Devlopes/ThreeMinAlert/ThreeMinAlert/obj/Debug/net8.0-android/mauisplash.stamp
+/Users/uchiyama/Devlopes/ThreeMinAlert/ThreeMinAlert/obj/Debug/net8.0-android/mauifont.stamp
+/Users/uchiyama/Devlopes/ThreeMinAlert/ThreeMinAlert/obj/Debug/net8.0-android/mauiimage.stamp

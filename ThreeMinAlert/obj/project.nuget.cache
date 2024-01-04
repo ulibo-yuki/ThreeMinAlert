@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "7vc7UlbRNEgDtZxeLF4ux5amR+r0uMKc6ZGIlW2TA6dHzzMhvfxu85LeTJaAKbEWszgl3asc6q6KU2YmboYOEw==",
+  "dgSpecHash": "G6Gg9oGXHjaSxWCLkGRt9zpYsz4f4DiICOW8H+fIy81A2C4ryT4/7/mgjik06NhVcOs2f3LOjP4SNKvKc3VnSQ==",
   "success": true,
   "projectFilePath": "/Users/uchiyama/Devlopes/ThreeMinAlert/ThreeMinAlert/ThreeMinAlert.csproj",
   "expectedPackageFiles": [
@@ -24,11 +24,7 @@
     "/Users/uchiyama/.nuget/packages/microsoft.maui.resizetizer/8.0.3/microsoft.maui.resizetizer.8.0.3.nupkg.sha512",
     "/Users/uchiyama/.nuget/packages/microsoft.net.illink.tasks/8.0.0/microsoft.net.illink.tasks.8.0.0.nupkg.sha512",
     "/Users/uchiyama/.nuget/packages/plugin.maui.audio/2.1.0/plugin.maui.audio.2.1.0.nupkg.sha512",
-    "/Users/uchiyama/.nuget/packages/system.runtime.interopservices.nfloat.internal/6.0.1/system.runtime.interopservices.nfloat.internal.6.0.1.nupkg.sha512",
-    "/Users/uchiyama/.nuget/packages/microsoft.netcore.app.runtime.mono.osx-x64/8.0.0/microsoft.netcore.app.runtime.mono.osx-x64.8.0.0.nupkg.sha512",
-    "/Users/uchiyama/.nuget/packages/microsoft.aspnetcore.app.runtime.osx-x64/8.0.0/microsoft.aspnetcore.app.runtime.osx-x64.8.0.0.nupkg.sha512",
-    "/Users/uchiyama/.nuget/packages/microsoft.netcore.app.runtime.mono.osx-x64/8.0.0/microsoft.netcore.app.runtime.mono.osx-x64.8.0.0.nupkg.sha512",
-    "/Users/uchiyama/.nuget/packages/microsoft.aspnetcore.app.runtime.osx-x64/8.0.0/microsoft.aspnetcore.app.runtime.osx-x64.8.0.0.nupkg.sha512"
+    "/Users/uchiyama/.nuget/packages/system.runtime.interopservices.nfloat.internal/6.0.1/system.runtime.interopservices.nfloat.internal.6.0.1.nupkg.sha512"
   ],
   "logs": []
 }

@@ -443,7 +443,7 @@
         }
       }
     },
-    "net8.0-ios17.0/osx-x64": {
+    "net8.0-ios17.0/maccatalyst-arm64": {
       "Microsoft.Extensions.Configuration/8.0.0": {
         "type": "package",
         "dependencies": {
@@ -1327,7 +1327,7 @@
         }
       }
     },
-    "net8.0-maccatalyst17.0/osx-x64": {
+    "net8.0-maccatalyst17.0/maccatalyst-arm64": {
       "Microsoft.Extensions.Configuration/8.0.0": {
         "type": "package",
         "dependencies": {
@@ -3107,16 +3107,6 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "downloadDependencies": [
-          {
-            "name": "Microsoft.AspNetCore.App.Runtime.osx-x64",
-            "version": "[8.0.0, 8.0.0]"
-          },
-          {
-            "name": "Microsoft.NETCore.App.Runtime.Mono.osx-x64",
-            "version": "[8.0.0, 8.0.0]"
-          }
-        ],
         "frameworkReferences": {
           "Microsoft.iOS": {
             "privateAssets": "all"
@@ -3165,16 +3155,6 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "downloadDependencies": [
-          {
-            "name": "Microsoft.AspNetCore.App.Runtime.osx-x64",
-            "version": "[8.0.0, 8.0.0]"
-          },
-          {
-            "name": "Microsoft.NETCore.App.Runtime.Mono.osx-x64",
-            "version": "[8.0.0, 8.0.0]"
-          }
-        ],
         "frameworkReferences": {
           "Microsoft.MacCatalyst": {
             "privateAssets": "all"
@@ -3187,7 +3167,7 @@
       }
     },
     "runtimes": {
-      "osx-x64": {
+      "maccatalyst-arm64": {
         "#import": []
       }
     }
